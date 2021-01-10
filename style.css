@@ -1,0 +1,25 @@
+h1 {
+
+	text-align: center;
+	margin: 30% auto;
+	font-size: 60px;
+	font-family: "alex_brushregular", sans-serif;
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'alex_brushregular';
+    src: url('alexbrush-regular-webfont.woff2') format('woff2'),
+         url('alexbrush-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
